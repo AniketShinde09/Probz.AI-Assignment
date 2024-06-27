@@ -1,0 +1,23 @@
+.timeframe-selector {
+    margin-bottom: 20px;
+  }
+  
+  .timeframe-selector button {
+    margin: 0 5px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #8884d8;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .timeframe-selector button:hover {
+    background-color: #7064c8;
+  }
+  
+  .timeframe-selector button:focus {
+    outline: none;
+  }
+  
