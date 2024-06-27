@@ -2,9 +2,9 @@
 
 # live application link
 
-    click link to see live app or copy paste url in browser
+    Click Live Link to see live app or copy paste url in browser
     
-    https://probz-ai-assignment-qxkl.vercel.app/
+    URL :-  https://probz-ai-assignment-qxkl.vercel.app/
 
 [Live Link](https://probz-ai-assignment-qxkl.vercel.app/)
 
