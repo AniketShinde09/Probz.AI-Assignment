@@ -1,8 +1,9 @@
 # Probz.AI Assignment 
 
 # live application link
+    click link to see live app
 
-[live link](https://probz-ai-assignment-qxkl.vercel.app/)
+[Live Link](https://probz-ai-assignment-qxkl.vercel.app/)
 
 # Sample App
 ![sample](https://github.com/AniketShinde09/Probz.AI-Assignment/assets/98761894/6d2e633a-64be-4be7-bc31-7425117dae5d)
