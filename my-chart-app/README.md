@@ -1,7 +1,7 @@
 # Probz.AI Assignment 
 
 # Sample App
-![sample app](my-chart-app/src/assets/sample.png)
+![sample app](Probz.AI-Assignment/my-chart-app/src/assets/sample.png)
 
 ## Setup
 
